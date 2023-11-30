@@ -1,7 +1,7 @@
 {
   "build": {
     "buildpacks": {
-      "builder": "heroku/builder:18"
+      "builder": "heroku/buildpacks:18"
     }
   }
 }
