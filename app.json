@@ -1,7 +1,7 @@
 {
   "build": {
     "buildpacks": {
-      "builder": "heroku/builder"
+      "builder": "heroku/php"
     }
   }
 }
